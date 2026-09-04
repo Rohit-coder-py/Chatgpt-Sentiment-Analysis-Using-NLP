@@ -19,9 +19,7 @@
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/PLACEHOLDER-replace-after-upload
-
-> GitHub only generates that inline player link when a video is dragged into a PR/README edit box on GitHub.com. Until you do that, watch it directly here: [`preview/demo.mp4`](preview/demo.mp4).
+https://github.com/user-attachments/assets/9b0d09fa-e273-4471-8499-e37e67d9d576
 
 ---
 
@@ -163,7 +161,7 @@ The app opens at `http://localhost:8501`. All file paths in `app.py` resolve rel
 
 ## 🌐 Live Demo
 
-**Try it here:** _add your deployed Streamlit Community Cloud URL here once it's live_
+**Try it here:** https://chatgpt-sentiment-analysis-nlp-machine-learning.streamlit.app/
 
 ## 📸 Screenshots
 

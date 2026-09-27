@@ -1,10 +1,4 @@
-"""
-Loading utilities for models, vectorizers, and evaluation artifacts.
 
-All paths are resolved relative to this file's location (via pathlib),
-so the app works no matter what directory `streamlit run` is launched
-from.
-"""
 
 import json
 from pathlib import Path

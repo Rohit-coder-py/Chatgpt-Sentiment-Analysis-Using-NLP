@@ -1,15 +1,3 @@
-"""
-ChatGPT Sentiment Analysis — Streamlit application.
-
-Run with:
-    streamlit run app.py
-
-This app wraps the existing trained scikit-learn models (Logistic
-Regression on Bag-of-Words and on TF-IDF features) that were produced in
-notebooks/ChatGPT Sentiment Analysis using NLP & Machine Learning.ipynb,
-and exposes them through a polished, production-style UI.
-"""
-
 import sys
 from pathlib import Path
 
